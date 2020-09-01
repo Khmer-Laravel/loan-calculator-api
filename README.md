@@ -3,8 +3,7 @@
 
 ## Example 
 
-![GitHub Logo](/previews/example.png)
-Format: ![Alt Text](url)
+![Preview](https://raw.githubusercontent.com/phuongphally/loan-calculator-api/previews/example.png)
 
 
 ## Install
