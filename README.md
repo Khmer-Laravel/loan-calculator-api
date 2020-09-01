@@ -3,7 +3,7 @@
 
 ## Example 
 
-![Preview](https://raw.githubusercontent.com/phuongphally/loan-calculator-api/previews/example.png)
+![Preview](https://raw.githubusercontent.com/phuongphally/loan-calculator-api/master/previews/example.png)
 
 
 ## Install
