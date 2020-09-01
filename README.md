@@ -1,6 +1,12 @@
 
 # Loan Calculator API
 
+## Example 
+
+![GitHub Logo](/previews/example.png)
+Format: ![Alt Text](url)
+
+
 ## Install
  ``composer install``
  
